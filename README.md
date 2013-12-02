@@ -1,7 +1,7 @@
 mazegame
 ========
 
-A Maze Game Written in C
+A Maze Game Written in C.  Compile and run.
 
 *******************************************************************************
 GAME DESCRIPTION:
